@@ -43,9 +43,9 @@
 
 ### Recent Projects 👨‍💻
 <div align="center">
-<img src="https://github.com/Karthik5299/Real-Time-Chat-App&show_icons=true&theme=great-gatsby"> 
+<img src="https://github.com/Karthik5299/Real-Time-Chat-App & show_icons=true&theme=great-gatsby"> 
 <img src=https://github.com/Karthik5299/IMPACT_SUM&show_icons=true&theme=great-gatsby"> 
- 
+ </div>
 ---
 
 Leave a ⭐ from [here](https://github.com/Karthik5299) if you likeee 😁
